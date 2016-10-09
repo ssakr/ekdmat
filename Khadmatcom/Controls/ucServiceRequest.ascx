@@ -23,7 +23,7 @@
                               <li class="text-success text-left">
                                  <div class="price_custom">
                            <table  style="width:auto;margin:auto;">
-                               <tr><td colspan="2">سعر الخدمة</td></tr>
+                               <tr><td colspan="2">سعر الخدمة المبدأى</td></tr>
                                 <tr><td>ريال</td><td>0000</td></tr>
                            </table>
                            </div>
