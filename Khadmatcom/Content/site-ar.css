@@ -1057,8 +1057,8 @@ button[type="submit"].c-btn {
 }
 
     .faq-div .accordion-toggle {
-        background: url(/images/a-slic.jpg) bottom repeat-x;
-        color: #000 !important;
+        background: url(/images/copy-slic.jpg) bottom repeat-x;
+        color: #000;
         height: 100%;
         line-height: 28px;
         border: 1px solid #ccc;
@@ -1731,4 +1731,19 @@ button[type="submit"].c-btn {
     content: "\f011";
     font-family: FontAwesome;
     padding-left: 10px !important;
+}
+/* price custom*/
+.price_custom {
+    border-style: solid;
+    border-color: #2e6da2;
+    font-weight: bold;
+    color: red;
+    text-align: center;
+}
+.blue_backgroung  {
+       background: #19548E !important ;
+    color: #fff !important 
+}
+.fa-chevron-down:before {
+    color: #fff !important;
 }
